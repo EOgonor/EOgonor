@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EOgonor
-- 👀 I’m interested in IT Consulting
-- 🌱 I’m currently learning Programming
-- 💞️ I’m looking forward to collaborate with multi-national firms to proffer IT solutions to their business challenges
+- 👀 I’m interested in providing sustainable IT solutions to business
+- 🌱 I’m currently an IT consultant and an Entreprenuer
+- 💞️ I’m looking forward to collaborate with multi-national firms
 - 📫 I can be reach at eogonor@gmail.com
